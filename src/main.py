@@ -123,6 +123,7 @@ def get_random_tasks(life: Life, n: int) -> Iterator[Callable[[Life], None]]:
 
 def main():
     life = Life(Brain(iq=100))
+
     event_loop = get_event_loop(1, 0.2, repeat=True)
     event_loop.add_tasks(get_random_tasks(life, n=1000))
     event_loop.run(life)
