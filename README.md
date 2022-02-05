@@ -65,4 +65,4 @@ To run program run `python3 main.py`
 
 ### Custom Tasks:
 
-define any custom tasks within class `Life` to have them be added to the `EventLoop`
+Define any custom tasks within class `Life` with a `weight` of type `int` to have them be added to the `EventLoop`
