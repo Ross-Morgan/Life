@@ -61,7 +61,7 @@ Hope that the x86 gods let fate grant you `200`, and that they do not send you t
 ## Running
 ---
 
-To run program run `python3 main.py`
+To run program run `python3 src/life.py`
 
 ### Custom Tasks:
 
