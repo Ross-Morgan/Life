@@ -34,7 +34,7 @@ The developers of the universe have congregated and concluded with a defenition 
 #### Etiquette:
 - All socialising outside of StackOverflow, GitHub and Slack is now considered rude and will soon be criminalised.
 - C++ Users are to be respected in all circumstances besides decisions involving legacy features
-- Python are like mushrooms; some are toxic, some are nice
+- Python users are like mushrooms; some are toxic, some are nice
 - All VBA, Obj-C and Perl users should be shot-on-sight
 - Go to VHDL users for logical advice
 - Coq users should to be reffered to as `James May #{serial-number}` while `James May #0` is reserved for the man himself
