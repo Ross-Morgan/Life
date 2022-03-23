@@ -2,7 +2,7 @@
 
 Welcome to Life.
 
-The developers of the universe have congregated and concluded with a defenition of life:
+The developers of the universe have congregated and concluded with a definition of life:
 1. `coding`
 2. `coffee`
 3. `sleep`
