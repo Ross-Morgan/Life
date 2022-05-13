@@ -53,7 +53,7 @@ The developers of the universe have congregated and concluded with a definition 
 
 This is your portable host for your digital self in this digitally developed universe
 
-Hope that the x86 gods let fate grant you `200`, and that they do not send you to the `403` land that `404` of JavaScript's logic
+Hope that the x86 gods let fate grant you `200`, and that they do not send you to the `403` `404` land of JavaScript's logic
 
 ---
 ---
