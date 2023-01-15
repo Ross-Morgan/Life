@@ -21,30 +21,30 @@ The developers of the universe have congregated and concluded with a definition 
 
 
 #### Economy:
-- Personal capital is measured by total size of GitHub repositories
+- Personal capital is measured by total GitHub Stars
 - Social Credit is based off of StackOverflow reputation
 - Tax scales inverse to total size of repositories
 - Coffee will be completely subsidised by taxes within the next 2 weeks
 
 #### Religion:
-- The international religion is x86 Assembly
-- x86 ASM users are holy prophets
+- The international religion is the `Rust Compiler` in it's infinite wisdom
+- `Rust` users are holy prophets
 
 
 #### Etiquette:
 - All socialising outside of StackOverflow, GitHub and Slack is now considered rude and will soon be criminalised.
-- C++ Users are to be respected in all circumstances besides decisions involving legacy features
-- Python users are like mushrooms; some are toxic, some are nice
-- All VBA, Obj-C and Perl users should be shot-on-sight
-- Go to VHDL users for logical advice
-- Coq users should to be reffered to as `James May #{serial-number}` while `James May #0` is reserved for the man himself
+- `C++` Users are to be respected in most circumstances besides decisions involving legacy features
+- `Python` users are like mushrooms; some are toxic, some are nice
+- All `VBA`, `Objective-C` and `Perl` users should be shot-on-sight
+- Go to `VHDL` users for logical advice
 - Windows users are to be looked down upon
 
 #### Laws:
 - Breaching repository licences may result in capital punishment
-- Inadequate coffee consumption will result in your mandatory participation in a 10 hour `Java DSA course`
-- Don't undermine anyone using a more complex language than your native (excluding aforementioned legislature)
+- Inadequate coffee consumption will result in your mandatory participation in a 72 hour `Java DSA course`
+- Never interrupt anyone using a more complex language than your native (excluding aforementioned legislature)
 - Everything you say must be abstracted to the highest scenario-appropriate level
+- Anyone found guilty of using `Javascript` for logical comparison will be admitted to their nearest mental asylum
 
 ---
 ---
@@ -61,7 +61,7 @@ Hope that the x86 gods let fate grant you `200`, and that they do not send you t
 ## Running
 ---
 
-To run program run `python3 src/life.py`
+To run your life, run `python3 src/life.py`
 
 ### Custom Tasks:
 
